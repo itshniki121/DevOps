@@ -1,2 +1,3 @@
 ---
-docker_version: "latest"
+docker_package: docker.io
+docker_service: docker
